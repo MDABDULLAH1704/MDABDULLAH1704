@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MDABDULLAH1704
-- 👀 I’m interested in Coding and Fitness 
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
