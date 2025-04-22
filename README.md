@@ -18,7 +18,6 @@
 ## 💡 Interests
 - 🖥️ **Web Development** (Frontend & Backend)
 - 📚 Starting **Data Structures & Algorithms (DSA)**
-- 🏗️ Learning **System Design**
 
 ---
 
@@ -26,7 +25,6 @@
 - ✅ Master the **Full Stack (MERN Stack)**
 - ✅ Build a solid portfolio with **Full Stack projects**
 - ✅ Focus on **Data Structures & Algorithms (DSA)**
-- ✅ Learn **System Design**
 
 ---
 
