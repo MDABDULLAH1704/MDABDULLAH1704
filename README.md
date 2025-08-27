@@ -29,7 +29,7 @@
 ---
 
 ## 🤝 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=internet-explorer)](https://myportfolio143.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=internet-explorer)](https://mdabdullah2005.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/md-abdullah123/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:mdabdullahqais123@gmail.com)
 
