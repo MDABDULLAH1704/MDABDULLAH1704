@@ -38,7 +38,7 @@
 ## ⚡ Fun Facts
 - 🌙 Late-night coding is my favorite productivity hack.
 - 💡 Constant learner — always exploring new things!
-- 🐟 I’ll be experimenting with **fish farming as a side hobby** in the future!
+- 🎓 I will create a platform that helps college students find study resources and notes easily.
 
 ---
 
